@@ -1,6 +1,6 @@
 
-UWORLD : 0xc4461f8
-```namespace Offsets
+```UWORLD : 0xc4461f8
+namespace Offsets
 {
 	//static offsets
 	uintptr_t OwningGameInstance = 0x190; 
@@ -27,7 +27,6 @@ UWORLD : 0xc4461f8
 	uintptr_t ViewTarget = 0x1230; 
 	uintptr_t AmmoCount = 0xb54;
 	uintptr_t ClipSize = 0x148; 
-
 	uintptr_t TeamIndex = 0x1018; 
 	uintptr_t SquadId = 0x11ec;
 	uintptr_t bIsReloadingWeapon = 0x339;
