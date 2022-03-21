@@ -3,6 +3,7 @@
 namespace Offsets
 {
 	//static offsets
+	uintptr_t Uworld = 0xc4461f8;
 	uintptr_t OwningGameInstance = 0x190; 
 	uintptr_t LocalPlayers = 0x38; /
 	uintptr_t PlayerController = 0x30; 
