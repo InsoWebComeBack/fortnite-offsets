@@ -45,5 +45,5 @@ namespace Offsets
 
 IGNORE : Zetolac il a 12ans il demande de crack un Loader en C# :3
 
-![image](https://user-images.githubusercontent.com/70245299/159258518-f2855e52-8c07-46a1-85f9-9050f469b0e6.png)
+https://user-images.githubusercontent.com/70245299/159258518-f2855e52-8c07-46a1-85f9-9050f469b0e6.png
 
