@@ -23,11 +23,10 @@ namespace Offsets
 	uintptr_t RelativeRotation = 0x150; 
 	uintptr_t PlayerState = 0x2b8; 
 	uintptr_t Mesh = 0x318;
-  uintptr_t BoneArray = 0x5B0;// or 0x5A0
+        uintptr_t BoneArray = 0x5B0;// or 0x5A0
 	uintptr_t ViewTarget = 0x1230; 
 	uintptr_t AmmoCount = 0xb54;
 	uintptr_t ClipSize = 0x148; 
-
 	uintptr_t TeamIndex = 0x1018; 
 	uintptr_t SquadId = 0x11ec;
 	uintptr_t bIsReloadingWeapon = 0x339;
@@ -41,8 +40,5 @@ namespace Offsets
 	uintptr_t VehicleSkeletalMesh = 0x9c1;
 	uintptr_t FireStartLoc = 0xa18;
 	uintptr_t DefaultFOV = 0x2ac;
-
-	
-}
 
 **IGNORE : Zetolac il a 12ans il demande de crack un Loader en C# :3**
