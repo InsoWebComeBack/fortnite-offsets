@@ -9,7 +9,7 @@ DecryptFNameWide() -> 0x7751104
 FreeMemory: 0xD8A8F0
 ProcessEvent: 0xF27394
 
-Credits : Inso Web   
+Credits : Inso Web#6666   
 
 PATCH GUARD MHHH MOUAHAHAHAH FUCKFUCK 
 ![image](https://user-images.githubusercontent.com/70245299/177660324-2f538cf0-fa7d-44f3-93a6-63cd25b01ce6.png)
