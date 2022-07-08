@@ -1,13 +1,21 @@
-v21.20 update fortnite
-
-fNamePool (GNames) -> 0xCE99D40
-GUObjectArray (GObjects) -> 0xCC94048
-GWorld -> 0xCE461F8
- 
-DecryptFNameAnsi() -> 0xD4F2C0
-DecryptFNameWide() -> 0x7751104
-FreeMemory: 0xD8A8F0
-ProcessEvent: 0xF27394
+-> Uworld: 0xCE461F8
+-> FindObject: 0xD9E5C8
+-> GetObjectName: 0xD97720
+-> Free: 0xEFD0C0
+-> GetBoneMatrix: 0x13C250C
+-> PersistentLevel : 0x30
+-> OwningGameInstance : 0x1a8
+-> Levels : 0x160
+-> PlayerState : 0x290
+-> LocalPlayers : 0x38
+-> PlayerController : 0x30
+-> AcknowledgedPawn : 0x310
+-> RootComponent : 0x188
+-> RelativeLocation : 0x128
+-> RelativeRotation : 0x140
+-> Mesh : 0x2f0
+-> StaticMesh : 0x578
+-> TeamIndex : 0x1070
 
 Credits : Inso Web 
 
